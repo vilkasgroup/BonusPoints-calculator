@@ -21,7 +21,7 @@ Kaikki taulukot ovat muokattavia: rivejä voi lisätä ja poistaa, ja arvot
 lasketaan uudelleen välittömästi. Syötteet tallentuvat selaimen
 `localStorage`-muistiin; **Oletukset**-painike palauttaa alkuperäisen mallin arvot.
 
-Tarkempi kuvaus: [help.html](https://awikman-bot.github.io/BonusPoints-calculator/help.html)
+Tarkempi kuvaus: [help.html](https://bonuspistelaskuri.vilkas.fi/help)
 
 ## Kaavat
 
@@ -58,7 +58,7 @@ Sovellus toistaa Google Sheets -laskentamallin *Bonuspisteiden laskentamalli*
 > **Vilkkaan sisäiseen käyttöön.** Tämä repositorio on julkinen, mutta alla oleva
 > taulukko ei ole: se aukeaa vain Vilkkaan työntekijöille. Ulkopuolinen lukija
 > saa linkistä vain Googlen käyttöoikeusilmoituksen – kaikki laskentaan tarvittava
-> on kuvattu yllä olevissa kaavoissa ja [ohjesivulla](https://awikman-bot.github.io/BonusPoints-calculator/help.html).
+> on kuvattu yllä olevissa kaavoissa ja [ohjesivulla](https://bonuspistelaskuri.vilkas.fi/help).
 
 <https://docs.google.com/spreadsheets/d/1Y_1cjktwFDzmIMRVb5RNIDdlyJqYw2QL-KsJ1rTAq2c/edit?gid=387336235#gid=387336235>
 

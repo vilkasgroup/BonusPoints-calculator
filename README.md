@@ -3,7 +3,7 @@
 Interaktiivinen verkkosovellus, joka toistaa Google Sheets -laskentamallin
 **Bonuspisteiden laskentamalli** kaavat selaimessa.
 
-**Sovellus:** <https://awikman-bot.github.io/BonusPoints-calculator/>
+**Sovellus:** [bonuspistelaskuri.vilkas.fi](https://bonuspistelaskuri.vilkas.fi/)
 
 ## Mitä se tekee
 
